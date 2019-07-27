@@ -26,3 +26,7 @@ git::https://github.com/ederpbj/Animate
 >Atualizar yarn
 
     npm i -g yarn
+
+>Resetar cach
+
+    react-native start --reset-cache
